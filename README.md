@@ -19,6 +19,12 @@ Redeemer’s University is a private Christian institution committed to academic
 
 The primary purpose of this analysis is to identify the factors associated with academic success among Computer Science students and provide data-driven insights that can support evidence-based decision making. The findings are intended to assist the university management, lecturers etc. in developing strategies that enhance student learning, improve academic performance, and strengthen the overall quality of education within the Department of Computer Science.
 
+![Dashboard](dashboard.png)
+
+<img width="685" height="625" alt="dashboard" src="https://github.com/user-attachments/assets/a5c61be2-44ea-4277-95e6-3843d86485a8" />
+
+
+
 ### Data Source
 
 The dataset used for this analysis was sourced from Kaggle. The dataset contains 180 student records and 12 variables.
