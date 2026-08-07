@@ -21,10 +21,6 @@ The primary purpose of this analysis is to identify the factors associated with 
 
 ![Dashboard](dashboard.png)
 
-<img width="685" height="625" alt="dashboard" src="https://github.com/user-attachments/assets/a5c61be2-44ea-4277-95e6-3843d86485a8" />
-
-
-
 ### Data Source
 
 The dataset used for this analysis was sourced from Kaggle. The dataset contains 180 student records and 12 variables.
@@ -58,23 +54,43 @@ EDA involved exploring the student data to answer key questions, such as:
 
 **1. Programming Skill Distribution**
 - Python: 70 Strong · 64 Weak · 46 Average
+
+<img width="726" height="288" alt="Screenshot 2026-07-27 212308" src="https://github.com/user-attachments/assets/47c1b120-8b54-4401-95e7-f920ca7c48a7" />
+
 - SQL: 79 Strong · 60 Average · 41 Weak
+
+<img width="752" height="303" alt="Screenshot 2026-07-27 212325" src="https://github.com/user-attachments/assets/34dd16c9-f0a2-4983-8d96-1081bd599c98" />
+  
 - Java: 69 Strong · 64 Weak · 47 Average
+
+  <img width="757" height="358" alt="Screenshot 2026-07-27 212453" src="https://github.com/user-attachments/assets/e8051a08-ce15-45e2-84e7-6af4d82c2d60" />
 
 **2. GPA by Interested Domain**
 - Average GPA stays consistent across domains, roughly 3.5–3.9
 - Distributed Systems and NLP post the highest average GPAs (~3.9)
 
+<img width="649" height="430" alt="Screenshot 2026-07-27 212518" src="https://github.com/user-attachments/assets/4260b249-f77e-404f-b122-fa1f704d73c0" />
+
+
 **3. GPA by Age**
 - Students aged 33–37 have the highest average GPAs
 - Students around age 20 and 31 have the lowest average GPAs
 
+<img width="498" height="274" alt="Screenshot 2026-07-27 212553" src="https://github.com/user-attachments/assets/1bc675ad-4d1b-4d20-8448-c5f7ccb5e147" />
+
+
 **4. Gender Distribution**
 - Male : Female ratio is 102 : 78 — the sample skews male
+
+<img width="360" height="239" alt="Screenshot 2026-07-27 213328" src="https://github.com/user-attachments/assets/351165d7-c133-4ff9-bb3e-67195494b882" />
+
 
 **5. Career Interest**
 - Web Developer is the most popular career interest (19 students)
 - Software Engineer is the least popular (14 students)
+
+<img width="441" height="276" alt="Screenshot 2026-07-27 213335" src="https://github.com/user-attachments/assets/648643e1-28d2-4735-b2d1-6b58b25ec654" />
+
 
 ### Insights
 
