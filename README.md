@@ -36,9 +36,18 @@ Each entry includes:
 ### Data Cleaning
 
 In the initial data preparation phase, I performed the following tasks:
-1. Duplicate Check and Removal.
-2. Blank Space Detection.
-3. Column Formatting.
+1. Duplicate Check and Removal: I checked the dataset for duplicate records using the Remove Duplicates feature in the Data tab. No duplicate records were found in the dataset.
+ 
+2. Blank Space Detection: I checked for blank cells using the New Formatting Rule option under Conditional Formatting in the Home tab. No blank cells were found.
+3. Column Formatting: I removed the column named Major cause it was a repetition. I also bolden all the column headers for clearer visibility.
+
+##### KPI POINTS
+-	I used COUNT function to find the total population.
+-	I used AVERAGE function to find the average GPA.
+-	I used COUNTIF and COUNTA function to find the number of “STRONG” python and converted it to percentage.
+ 
+### Data Transformation
+I transformed the dataset by creating the Grade column using the IF function.
 
 ### Exploratory Data Analysis
 
